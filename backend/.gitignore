@@ -1,0 +1,16 @@
+# Node / Dependencies
+node_modules/
+
+# Environment
+.env
+!.env.example
+
+# Build Outputs
+dist/
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log

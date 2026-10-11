@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "remindd",
+    "slug": "remindd",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5B61D6"
+    },
+    "platforms": ["ios", "android", "web"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.remindd.app"
+    },
+    "android": {
+      "package": "com.remindd.app",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.DETECT_SCREEN_CAPTURE"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#5B61D6"
+      }
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#5B61D6"
+        }
+      ]
+    ]
+  }
+}

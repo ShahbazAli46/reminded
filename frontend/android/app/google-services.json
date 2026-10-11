@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023677329955",
+    "project_id": "assignerapp-aa2c5",
+    "storage_bucket": "assignerapp-aa2c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023677329955:android:8fb4567b8403b27c1c3796",
+        "android_client_info": {
+          "package_name": "com.assigner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViu__xRX_cGX9c1HQNzbzrbYIBwPnssg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023677329955:android:53b84bdea162e0091c3796",
+        "android_client_info": {
+          "package_name": "com.remindd.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCViu__xRX_cGX9c1HQNzbzrbYIBwPnssg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
